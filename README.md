@@ -2,12 +2,15 @@
 
 - Latest Version: 13.0
 - Released Date: 29-Aug-2021
-- Official Website: 
+- Official Website: https://infinitemlmsoftware.com
 - Built by: IOSS ( Infinite Open Source Solutions LLP )
 
 ### What is Infinite MLM Software?
 
-
+Infinite MLM Software is the leading provider of network marketing software solutions for over a decade. The software expertly handles all requirements of any MLM network from managing members to complex calculations, payouts, and commissions. It is trusted by over **_3000 MLM companies_** from every corner of the world.
+<br>
+<br>
+Advanced features like e-commerce integration, high-end security, customization options, cryptocurrency and smart contracts integration, etc make it the best MLM software for your business. Infinite MLM software supports multiple MLM compensation plans and add-ons to meet all your network marketing requirements.
 
 #### Previous Version Releases
 <!--
